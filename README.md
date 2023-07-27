@@ -27,3 +27,11 @@ All of the above operations can be performed only when user or Admin is logged i
 9. First you may need to register by clicking on Register Button.
    
 ![2register](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/f19358db-5d0e-48cc-8dab-d0d447d89f3d)
+
+10. After Registering and Logging in user will be redirected to the home page, the URL will be `127.0.0.1:8000/ticket`.
+11. There you may see a blank page with `Create New Ticket` button.
+
+![3dash](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/76636138-a0ae-45a3-a1ef-05e8348aceaa)
+
+
+13. You need to click on that button to create new Ticket.
