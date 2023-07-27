@@ -41,6 +41,15 @@ All of the above operations can be performed only when user or Admin is logged i
 
 ![5show](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/93796685-d514-4c04-b9db-52700f7cc666)
 
+15. Users can also see their tickets by clicking on `Support Ticket` button on the top of the page.
+    
 15. When admin updated the status, user will get a notification email like this:
 
 ![6mail](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/3d7358e6-db39-4e18-91b8-5fb5379eec7f)
+
+16. User and Admin also can change their details by clicking on their name on the top-right corner of the page.
+![7profile](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/360ca920-3eef-4c8d-82ab-48bc6d95c563)
+![8profile](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/e819ec00-c8cb-4cc2-b227-4da3a2e08112)
+
+
+Thank You ! 🙏
