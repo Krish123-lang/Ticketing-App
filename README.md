@@ -33,5 +33,14 @@ All of the above operations can be performed only when user or Admin is logged i
 
 ![3dash](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/76636138-a0ae-45a3-a1ef-05e8348aceaa)
 
-
 13. You need to click on that button to create new Ticket.
+
+![4createnew](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/49927cf9-fed4-41a0-8f05-99b9c236f800)
+
+14. After creating new ticket, you'll be redirected to home page. There user will see their all tickets also with status: open, resolved and rejected. BWT, it will be handled by admin.
+
+![5show](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/93796685-d514-4c04-b9db-52700f7cc666)
+
+15. When admin updated the status, user will get a notification email like this:
+
+![6mail](https://github.com/Krish123-lang/Ticketing-App/assets/56486342/3d7358e6-db39-4e18-91b8-5fb5379eec7f)
